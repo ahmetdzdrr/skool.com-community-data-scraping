@@ -1,5 +1,8 @@
 # skool.com-community-data-scraping
 
+![Screenshot 2024-08-22 at 19 08 14](https://github.com/user-attachments/assets/6f3af6a5-d4d4-4bb7-859a-2598f588fbd3)
+
+
 This repository contains scripts and tools for scraping community data from Skool.com, focusing on profile information and other relevant details. The collected data is processed and stored for further analysis.
 
 ## Features
